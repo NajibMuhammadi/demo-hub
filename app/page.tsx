@@ -17,6 +17,12 @@ const menuItems = [
         icon: Users,
         href: "http://172.20.20.47:3000/stations?station=69427c50c0b144d2bff7326e",
     },
+    {
+        title: "Park-Mark - vakt",
+        description: "En webbplats som visar parkeringsplatser.",
+        icon: Users,
+        href: "http://172.20.20.47:3000/parkedcars?parkedcarsrealtime=69427c50c0b144d2bff7326e",
+    },
 ];
 
 export default function NavigationHub() {
