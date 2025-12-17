@@ -15,7 +15,7 @@ const menuItems = [
         title: "Park-Mark",
         description: "En webbplats som visar parkeringsplatser.",
         icon: Users,
-        href: "https://parkmark.serima.se",
+        href: "http://172.20.20.47:3000/stations?station=69427c50c0b144d2bff7326e",
     },
 ];
 
